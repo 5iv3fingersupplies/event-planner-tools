@@ -1,0 +1,165 @@
+[
+  {
+    "slug": "party-budget-calculator",
+    "title": "Party Budget Calculator",
+    "category": "Budget",
+    "kind": "budget",
+    "description": "Split event budget across food, venue, decor, entertainment, and buffer.",
+    "fields": [
+      {
+        "id": "budget",
+        "label": "Total budget",
+        "type": "number",
+        "value": 500
+      },
+      {
+        "id": "guests",
+        "label": "Guests",
+        "type": "number",
+        "value": 25
+      }
+    ],
+    "recommendation_ids": [
+      "budget-planner",
+      "cash-envelopes",
+      "clipboards"
+    ]
+  },
+  {
+    "slug": "serving-quantity-estimator",
+    "title": "Serving Quantity Estimator",
+    "category": "Supplies",
+    "kind": "servings",
+    "description": "Estimate cups, plates, napkins, and serving buffer from guests and duration.",
+    "fields": [
+      {
+        "id": "guests",
+        "label": "Guests",
+        "type": "number",
+        "value": 30
+      },
+      {
+        "id": "hours",
+        "label": "Event hours",
+        "type": "number",
+        "value": 3
+      },
+      {
+        "id": "buffer",
+        "label": "Buffer percent",
+        "type": "number",
+        "value": 15
+      }
+    ],
+    "recommendation_ids": [
+      "compostable-plates",
+      "napkin-pack",
+      "serving-trays"
+    ]
+  },
+  {
+    "slug": "beverage-planner",
+    "title": "Beverage Planner",
+    "category": "Supplies",
+    "kind": "beverages",
+    "description": "Estimate non-alcoholic drink quantity from guests, hours, and weather.",
+    "fields": [
+      {
+        "id": "guests",
+        "label": "Guests",
+        "type": "number",
+        "value": 30
+      },
+      {
+        "id": "hours",
+        "label": "Event hours",
+        "type": "number",
+        "value": 3
+      },
+      {
+        "id": "hot",
+        "label": "Hot/outdoor event",
+        "type": "select",
+        "options": [
+          "no",
+          "yes"
+        ]
+      }
+    ],
+    "recommendation_ids": [
+      "drink-dispenser",
+      "cooler",
+      "ice-scoop"
+    ]
+  },
+  {
+    "slug": "event-timeline-builder",
+    "title": "Event Timeline Builder",
+    "category": "Timeline",
+    "kind": "timeline",
+    "description": "Create setup, arrival, food, activity, and cleanup blocks.",
+    "fields": [
+      {
+        "id": "setup",
+        "label": "Setup hours",
+        "type": "number",
+        "value": 2
+      },
+      {
+        "id": "eventHours",
+        "label": "Event hours",
+        "type": "number",
+        "value": 3
+      },
+      {
+        "id": "cleanup",
+        "label": "Cleanup hours",
+        "type": "number",
+        "value": 1
+      }
+    ],
+    "recommendation_ids": [
+      "planner-binder",
+      "name-badges",
+      "table-signs"
+    ]
+  },
+  {
+    "slug": "venue-supply-scorecard",
+    "title": "Venue Supply Scorecard",
+    "category": "Budget",
+    "kind": "comparison",
+    "description": "Compare venues by included supplies, setup time, restrictions, and cost fit.",
+    "fields": [
+      {
+        "id": "fit",
+        "label": "Fit score 1-10",
+        "type": "number",
+        "value": 7
+      },
+      {
+        "id": "ease",
+        "label": "Ease score 1-10",
+        "type": "number",
+        "value": 6
+      },
+      {
+        "id": "marginScore",
+        "label": "Margin/capacity score 1-10",
+        "type": "number",
+        "value": 7
+      },
+      {
+        "id": "repeat",
+        "label": "Repeatability score 1-10",
+        "type": "number",
+        "value": 6
+      }
+    ],
+    "recommendation_ids": [
+      "measuring-tape",
+      "table-number-cards",
+      "extension-cords"
+    ]
+  }
+]

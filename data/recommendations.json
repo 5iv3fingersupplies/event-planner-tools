@@ -1,0 +1,92 @@
+[
+  {
+    "id": "budget-planner",
+    "label": "Budget planner",
+    "query": "Budget planner",
+    "fit": "Useful support item for party budget calculator."
+  },
+  {
+    "id": "cash-envelopes",
+    "label": "Cash envelopes",
+    "query": "Cash envelopes",
+    "fit": "Useful support item for party budget calculator."
+  },
+  {
+    "id": "clipboards",
+    "label": "Clipboards",
+    "query": "Clipboards",
+    "fit": "Useful support item for party budget calculator."
+  },
+  {
+    "id": "compostable-plates",
+    "label": "Compostable plates",
+    "query": "Compostable plates",
+    "fit": "Useful support item for serving quantity estimator."
+  },
+  {
+    "id": "napkin-pack",
+    "label": "Napkin pack",
+    "query": "Napkin pack",
+    "fit": "Useful support item for serving quantity estimator."
+  },
+  {
+    "id": "serving-trays",
+    "label": "Serving trays",
+    "query": "Serving trays",
+    "fit": "Useful support item for serving quantity estimator."
+  },
+  {
+    "id": "drink-dispenser",
+    "label": "Drink dispenser",
+    "query": "Drink dispenser",
+    "fit": "Useful support item for beverage planner."
+  },
+  {
+    "id": "cooler",
+    "label": "Cooler",
+    "query": "Cooler",
+    "fit": "Useful support item for beverage planner."
+  },
+  {
+    "id": "ice-scoop",
+    "label": "Ice scoop",
+    "query": "Ice scoop",
+    "fit": "Useful support item for beverage planner."
+  },
+  {
+    "id": "planner-binder",
+    "label": "Planner binder",
+    "query": "Planner binder",
+    "fit": "Useful support item for event timeline builder."
+  },
+  {
+    "id": "name-badges",
+    "label": "Name badges",
+    "query": "Name badges",
+    "fit": "Useful support item for event timeline builder."
+  },
+  {
+    "id": "table-signs",
+    "label": "Table signs",
+    "query": "Table signs",
+    "fit": "Useful support item for event timeline builder."
+  },
+  {
+    "id": "measuring-tape",
+    "label": "Measuring tape",
+    "query": "Measuring tape",
+    "fit": "Useful support item for venue supply scorecard."
+  },
+  {
+    "id": "table-number-cards",
+    "label": "Table number cards",
+    "query": "Table number cards",
+    "fit": "Useful support item for venue supply scorecard."
+  },
+  {
+    "id": "extension-cords",
+    "label": "Extension cords",
+    "query": "Extension cords",
+    "fit": "Useful support item for venue supply scorecard."
+  }
+]
