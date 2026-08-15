@@ -1,0 +1,62 @@
+{
+  "target_min_pages": 50,
+  "page_types": [
+    "product-fit",
+    "tool-buying-plan",
+    "printable-checklist",
+    "topic-hub"
+  ],
+  "intent": "accelerate qualified long-tail discovery without paid traffic or thin pages",
+  "category_hubs": [
+    {
+      "slug": "budget",
+      "title": "Budget"
+    },
+    {
+      "slug": "supplies",
+      "title": "Supplies"
+    },
+    {
+      "slug": "timeline",
+      "title": "Timeline"
+    }
+  ],
+  "product_fit_pages": [
+    "budget-planner",
+    "cash-envelopes",
+    "clipboards",
+    "compostable-plates",
+    "napkin-pack",
+    "serving-trays",
+    "drink-dispenser",
+    "cooler",
+    "ice-scoop",
+    "planner-binder",
+    "name-badges",
+    "table-signs",
+    "measuring-tape",
+    "table-number-cards",
+    "extension-cords"
+  ],
+  "tool_plan_pages": [
+    "party-budget-calculator",
+    "serving-quantity-estimator",
+    "beverage-planner",
+    "event-timeline-builder",
+    "venue-supply-scorecard"
+  ],
+  "checklist_pages": [
+    "party-budget-planning-without-surprise-categories",
+    "supply-quantity-checklist-for-casual-events",
+    "drink-station-planning-for-warm-weather",
+    "event-setup-timeline-for-small-teams",
+    "venue-comparison-checklist",
+    "kids-birthday-party-supply-planning",
+    "graduation-party-organizer-notes",
+    "potluck-sign-up-planning",
+    "name-tags-and-table-signs-that-reduce-confusion",
+    "cleanup-station-checklist",
+    "emergency-event-kit-for-hosts",
+    "printable-planner-pack-setup"
+  ]
+}
