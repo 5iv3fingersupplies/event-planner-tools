@@ -1,0 +1,424 @@
+{
+  "strategy_source_summary": "Adapted from supplied affiliate marketing materials: own the site, build topical authority, publish consistently, favor buyer-intent pages, reduce friction, and keep a return channel.",
+  "no_cost_adaptation": "Static seasonal pages, Atom feed, internal links, and deterministic optimization reports replace paid hosting, paid plugins, paid keyword tools, and paid email systems.",
+  "traffic_channels": [
+    {
+      "channel": "Organic search",
+      "implementation": "Seasonal and product-fit pages create clearer long-tail entry points around buyer intent."
+    },
+    {
+      "channel": "Owned return traffic",
+      "implementation": "Atom feed lets visitors follow new pages without accounts, email storage, or a paid newsletter service."
+    },
+    {
+      "channel": "Partner readiness",
+      "implementation": "Publisher standards page explains disclosure, evidence, and no paid placement rules for future direct affiliate approvals."
+    },
+    {
+      "channel": "Manual-free optimization",
+      "implementation": "Scheduled reports score tools, product-fit pages, seasonal pages, and optional private exports without calling paid APIs."
+    }
+  ],
+  "source_action_items": [
+    "Prioritize transactional page formats: tool pages, product-fit pages, comparison-style decision pages, and seasonal checklists.",
+    "Build internal links from supporting pages to the most relevant calculator and product-fit page.",
+    "Use trust cues before monetized links: disclosure, no account, private inputs, and evidence-first limitations.",
+    "Do not add paid email, paid keyword, paid AI, ads, or analytics dependencies."
+  ],
+  "seasonal_pages": [
+    {
+      "slug": "january-reset-party-budget-calculator",
+      "month": "January",
+      "theme": "reset",
+      "title": "January reset: party Budget Calculator",
+      "category": "Budget",
+      "description": "A seasonal decision page for using Party Budget Calculator with Party budget planning without surprise categories before opening product-fit links.",
+      "reason": "Reset the workspace and choose only the supplies the workflow proves you need.",
+      "tool_slugs": [
+        "party-budget-calculator",
+        "event-timeline-builder"
+      ],
+      "guide_slugs": [
+        "party-budget-planning-without-surprise-categories",
+        "kids-birthday-party-supply-planning"
+      ],
+      "recommendation_ids": [
+        "budget-planner",
+        "cash-envelopes",
+        "clipboards"
+      ],
+      "decision_prompts": [
+        "What measurement, count, or requirement changed this month?",
+        "Which current item still solves the job without a new purchase?",
+        "Which product category is justified by the calculator result?"
+      ],
+      "avoid_prompts": [
+        "Do not buy a broad bundle when a focused item solves the task.",
+        "Do not rely on live marketplace claims that this static site cannot verify.",
+        "Do not add a new tool until the existing workflow has a clear gap."
+      ]
+    },
+    {
+      "slug": "february-small-space-setup-serving-quantity-estimator",
+      "month": "February",
+      "theme": "small-space setup",
+      "title": "February small-space setup: serving Quantity Estimator",
+      "category": "Supplies",
+      "description": "A seasonal decision page for using Serving Quantity Estimator with Venue comparison checklist before opening product-fit links.",
+      "reason": "Tighten the setup before the season gets busy.",
+      "tool_slugs": [
+        "serving-quantity-estimator",
+        "venue-supply-scorecard"
+      ],
+      "guide_slugs": [
+        "venue-comparison-checklist",
+        "graduation-party-organizer-notes"
+      ],
+      "recommendation_ids": [
+        "compostable-plates",
+        "napkin-pack",
+        "serving-trays",
+        "cash-envelopes"
+      ],
+      "decision_prompts": [
+        "What measurement, count, or requirement changed this month?",
+        "Which current item still solves the job without a new purchase?",
+        "Which product category is justified by the calculator result?"
+      ],
+      "avoid_prompts": [
+        "Do not buy a broad bundle when a focused item solves the task.",
+        "Do not rely on live marketplace claims that this static site cannot verify.",
+        "Do not add a new tool until the existing workflow has a clear gap."
+      ]
+    },
+    {
+      "slug": "march-spring-planning-beverage-planner",
+      "month": "March",
+      "theme": "spring planning",
+      "title": "March spring planning: beverage Planner",
+      "category": "Supplies",
+      "description": "A seasonal decision page for using Beverage Planner with Potluck sign-up planning before opening product-fit links.",
+      "reason": "Measure, sort, and prepare before buying fresh supplies.",
+      "tool_slugs": [
+        "beverage-planner",
+        "party-budget-calculator"
+      ],
+      "guide_slugs": [
+        "potluck-sign-up-planning",
+        "potluck-sign-up-planning"
+      ],
+      "recommendation_ids": [
+        "drink-dispenser",
+        "cooler",
+        "ice-scoop",
+        "clipboards"
+      ],
+      "decision_prompts": [
+        "What measurement, count, or requirement changed this month?",
+        "Which current item still solves the job without a new purchase?",
+        "Which product category is justified by the calculator result?"
+      ],
+      "avoid_prompts": [
+        "Do not buy a broad bundle when a focused item solves the task.",
+        "Do not rely on live marketplace claims that this static site cannot verify.",
+        "Do not add a new tool until the existing workflow has a clear gap."
+      ]
+    },
+    {
+      "slug": "april-cleanup-pass-event-timeline-builder",
+      "month": "April",
+      "theme": "cleanup pass",
+      "title": "April cleanup pass: event Timeline Builder",
+      "category": "Timeline",
+      "description": "A seasonal decision page for using Event Timeline Builder with Printable planner pack setup before opening product-fit links.",
+      "reason": "Remove friction from the routine before adding more gear.",
+      "tool_slugs": [
+        "event-timeline-builder",
+        "serving-quantity-estimator"
+      ],
+      "guide_slugs": [
+        "printable-planner-pack-setup",
+        "name-tags-and-table-signs-that-reduce-confusion"
+      ],
+      "recommendation_ids": [
+        "planner-binder",
+        "name-badges",
+        "table-signs",
+        "compostable-plates"
+      ],
+      "decision_prompts": [
+        "What measurement, count, or requirement changed this month?",
+        "Which current item still solves the job without a new purchase?",
+        "Which product category is justified by the calculator result?"
+      ],
+      "avoid_prompts": [
+        "Do not buy a broad bundle when a focused item solves the task.",
+        "Do not rely on live marketplace claims that this static site cannot verify.",
+        "Do not add a new tool until the existing workflow has a clear gap."
+      ]
+    },
+    {
+      "slug": "may-busy-week-buffer-venue-supply-scorecard",
+      "month": "May",
+      "theme": "busy-week buffer",
+      "title": "May busy-week buffer: venue Supply Scorecard",
+      "category": "Budget",
+      "description": "A seasonal decision page for using Venue Supply Scorecard with Party budget planning without surprise categories before opening product-fit links.",
+      "reason": "Build a light backup plan for busier weeks.",
+      "tool_slugs": [
+        "venue-supply-scorecard",
+        "beverage-planner"
+      ],
+      "guide_slugs": [
+        "party-budget-planning-without-surprise-categories",
+        "cleanup-station-checklist"
+      ],
+      "recommendation_ids": [
+        "measuring-tape",
+        "table-number-cards",
+        "extension-cords",
+        "napkin-pack"
+      ],
+      "decision_prompts": [
+        "What measurement, count, or requirement changed this month?",
+        "Which current item still solves the job without a new purchase?",
+        "Which product category is justified by the calculator result?"
+      ],
+      "avoid_prompts": [
+        "Do not buy a broad bundle when a focused item solves the task.",
+        "Do not rely on live marketplace claims that this static site cannot verify.",
+        "Do not add a new tool until the existing workflow has a clear gap."
+      ]
+    },
+    {
+      "slug": "june-travel-and-outdoor-check-party-budget-calculator",
+      "month": "June",
+      "theme": "travel and outdoor check",
+      "title": "June travel and outdoor check: party Budget Calculator",
+      "category": "Budget",
+      "description": "A seasonal decision page for using Party Budget Calculator with Event setup timeline for small teams before opening product-fit links.",
+      "reason": "Check portable, compact, or weather-ready options before browsing.",
+      "tool_slugs": [
+        "party-budget-calculator",
+        "event-timeline-builder"
+      ],
+      "guide_slugs": [
+        "event-setup-timeline-for-small-teams",
+        "emergency-event-kit-for-hosts"
+      ],
+      "recommendation_ids": [
+        "budget-planner",
+        "cash-envelopes",
+        "clipboards",
+        "serving-trays"
+      ],
+      "decision_prompts": [
+        "What measurement, count, or requirement changed this month?",
+        "Which current item still solves the job without a new purchase?",
+        "Which product category is justified by the calculator result?"
+      ],
+      "avoid_prompts": [
+        "Do not buy a broad bundle when a focused item solves the task.",
+        "Do not rely on live marketplace claims that this static site cannot verify.",
+        "Do not add a new tool until the existing workflow has a clear gap."
+      ]
+    },
+    {
+      "slug": "july-midyear-audit-serving-quantity-estimator",
+      "month": "July",
+      "theme": "midyear audit",
+      "title": "July midyear audit: serving Quantity Estimator",
+      "category": "Supplies",
+      "description": "A seasonal decision page for using Serving Quantity Estimator with Potluck sign-up planning before opening product-fit links.",
+      "reason": "Compare what is actually being used against what is stored.",
+      "tool_slugs": [
+        "serving-quantity-estimator",
+        "venue-supply-scorecard"
+      ],
+      "guide_slugs": [
+        "potluck-sign-up-planning",
+        "printable-planner-pack-setup"
+      ],
+      "recommendation_ids": [
+        "compostable-plates",
+        "napkin-pack",
+        "serving-trays",
+        "drink-dispenser"
+      ],
+      "decision_prompts": [
+        "What measurement, count, or requirement changed this month?",
+        "Which current item still solves the job without a new purchase?",
+        "Which product category is justified by the calculator result?"
+      ],
+      "avoid_prompts": [
+        "Do not buy a broad bundle when a focused item solves the task.",
+        "Do not rely on live marketplace claims that this static site cannot verify.",
+        "Do not add a new tool until the existing workflow has a clear gap."
+      ]
+    },
+    {
+      "slug": "august-back-to-routine-setup-beverage-planner",
+      "month": "August",
+      "theme": "back-to-routine setup",
+      "title": "August back-to-routine setup: beverage Planner",
+      "category": "Supplies",
+      "description": "A seasonal decision page for using Beverage Planner with Emergency event kit for hosts before opening product-fit links.",
+      "reason": "Prepare repeatable routines before the next packed calendar.",
+      "tool_slugs": [
+        "beverage-planner",
+        "party-budget-calculator"
+      ],
+      "guide_slugs": [
+        "emergency-event-kit-for-hosts",
+        "party-budget-planning-without-surprise-categories"
+      ],
+      "recommendation_ids": [
+        "drink-dispenser",
+        "cooler",
+        "ice-scoop"
+      ],
+      "decision_prompts": [
+        "What measurement, count, or requirement changed this month?",
+        "Which current item still solves the job without a new purchase?",
+        "Which product category is justified by the calculator result?"
+      ],
+      "avoid_prompts": [
+        "Do not buy a broad bundle when a focused item solves the task.",
+        "Do not rely on live marketplace claims that this static site cannot verify.",
+        "Do not add a new tool until the existing workflow has a clear gap."
+      ]
+    },
+    {
+      "slug": "september-fall-organization-event-timeline-builder",
+      "month": "September",
+      "theme": "fall organization",
+      "title": "September fall organization: event Timeline Builder",
+      "category": "Timeline",
+      "description": "A seasonal decision page for using Event Timeline Builder with Drink station planning for warm weather before opening product-fit links.",
+      "reason": "Tighten labels, storage, and repeatable planning steps.",
+      "tool_slugs": [
+        "event-timeline-builder",
+        "serving-quantity-estimator"
+      ],
+      "guide_slugs": [
+        "drink-station-planning-for-warm-weather",
+        "supply-quantity-checklist-for-casual-events"
+      ],
+      "recommendation_ids": [
+        "planner-binder",
+        "name-badges",
+        "table-signs",
+        "ice-scoop"
+      ],
+      "decision_prompts": [
+        "What measurement, count, or requirement changed this month?",
+        "Which current item still solves the job without a new purchase?",
+        "Which product category is justified by the calculator result?"
+      ],
+      "avoid_prompts": [
+        "Do not buy a broad bundle when a focused item solves the task.",
+        "Do not rely on live marketplace claims that this static site cannot verify.",
+        "Do not add a new tool until the existing workflow has a clear gap."
+      ]
+    },
+    {
+      "slug": "october-holiday-prep-venue-supply-scorecard",
+      "month": "October",
+      "theme": "holiday prep",
+      "title": "October holiday prep: venue Supply Scorecard",
+      "category": "Budget",
+      "description": "A seasonal decision page for using Venue Supply Scorecard with Event setup timeline for small teams before opening product-fit links.",
+      "reason": "Prepare supplies before the year-end rush.",
+      "tool_slugs": [
+        "venue-supply-scorecard",
+        "beverage-planner"
+      ],
+      "guide_slugs": [
+        "event-setup-timeline-for-small-teams",
+        "drink-station-planning-for-warm-weather"
+      ],
+      "recommendation_ids": [
+        "measuring-tape",
+        "table-number-cards",
+        "extension-cords",
+        "planner-binder"
+      ],
+      "decision_prompts": [
+        "What measurement, count, or requirement changed this month?",
+        "Which current item still solves the job without a new purchase?",
+        "Which product category is justified by the calculator result?"
+      ],
+      "avoid_prompts": [
+        "Do not buy a broad bundle when a focused item solves the task.",
+        "Do not rely on live marketplace claims that this static site cannot verify.",
+        "Do not add a new tool until the existing workflow has a clear gap."
+      ]
+    },
+    {
+      "slug": "november-hosting-and-gifting-check-party-budget-calculator",
+      "month": "November",
+      "theme": "hosting and gifting check",
+      "title": "November hosting and gifting check: party Budget Calculator",
+      "category": "Budget",
+      "description": "A seasonal decision page for using Party Budget Calculator with Graduation party organizer notes before opening product-fit links.",
+      "reason": "Plan quantities and setup needs before last-minute buying.",
+      "tool_slugs": [
+        "party-budget-calculator",
+        "event-timeline-builder"
+      ],
+      "guide_slugs": [
+        "graduation-party-organizer-notes",
+        "event-setup-timeline-for-small-teams"
+      ],
+      "recommendation_ids": [
+        "budget-planner",
+        "cash-envelopes",
+        "clipboards",
+        "name-badges"
+      ],
+      "decision_prompts": [
+        "What measurement, count, or requirement changed this month?",
+        "Which current item still solves the job without a new purchase?",
+        "Which product category is justified by the calculator result?"
+      ],
+      "avoid_prompts": [
+        "Do not buy a broad bundle when a focused item solves the task.",
+        "Do not rely on live marketplace claims that this static site cannot verify.",
+        "Do not add a new tool until the existing workflow has a clear gap."
+      ]
+    },
+    {
+      "slug": "december-year-end-simplify-serving-quantity-estimator",
+      "month": "December",
+      "theme": "year-end simplify",
+      "title": "December year-end simplify: serving Quantity Estimator",
+      "category": "Supplies",
+      "description": "A seasonal decision page for using Serving Quantity Estimator with Emergency event kit for hosts before opening product-fit links.",
+      "reason": "Document what worked and simplify the next cycle.",
+      "tool_slugs": [
+        "serving-quantity-estimator",
+        "venue-supply-scorecard"
+      ],
+      "guide_slugs": [
+        "emergency-event-kit-for-hosts",
+        "venue-comparison-checklist"
+      ],
+      "recommendation_ids": [
+        "compostable-plates",
+        "napkin-pack",
+        "serving-trays",
+        "table-signs"
+      ],
+      "decision_prompts": [
+        "What measurement, count, or requirement changed this month?",
+        "Which current item still solves the job without a new purchase?",
+        "Which product category is justified by the calculator result?"
+      ],
+      "avoid_prompts": [
+        "Do not buy a broad bundle when a focused item solves the task.",
+        "Do not rely on live marketplace claims that this static site cannot verify.",
+        "Do not add a new tool until the existing workflow has a clear gap."
+      ]
+    }
+  ]
+}
