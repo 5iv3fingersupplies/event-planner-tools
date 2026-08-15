@@ -1,4 +1,4 @@
-# Event Planner Tools
+# Host & Party Planner Tools
 
 Budget, quantity, timeline, and supply calculators for small events.
 

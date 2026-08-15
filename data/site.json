@@ -1,9 +1,9 @@
 {
-    "name":  "Event Planner Tools",
-    "brand":  "Event Planner Tools",
-    "repo":  "event-planner-tools",
-    "owner":  "5iv3fingersupplies-co",
-    "base_url":  "https://5iv3fingersupplies.github.io/event-planner-tools",
-    "tagline":  "Budget, quantity, timeline, and supply calculators for small events.",
-    "model":  "Affiliate supply links plus future printable planner packs."
+  "name": "Host & Party Planner Tools",
+  "brand": "Host & Party Planner Tools",
+  "repo": "event-planner-tools",
+  "owner": "5iv3fingersupplies-co",
+  "base_url": "https://5iv3fingersupplies.github.io/event-planner-tools",
+  "tagline": "Budget, quantity, timeline, and supply calculators for hosts buying small-event supplies.",
+  "model": "Affiliate supply links for hosts plus future printable planner packs."
 }

@@ -1,12 +1,12 @@
 {
-  "short": "EP",
+  "short": "HP",
   "accent": "#c2410c",
   "secondary": "#0e7490",
   "warm": "#ca8a04",
   "surface": "#fff9f4",
   "soft": "#ffeddc",
-  "hero_title": "Plan the count before the cart fills up.",
-  "promise": "Event calculators for budgets, servings, drinks, supplies, and timelines.",
-  "primary_cta": "Plan an event",
+  "hero_title": "Plan like the host who pays the bill",
+  "promise": "Event calculators for hosts buying servings, drinks, supplies, and timelines.",
+  "primary_cta": "Plan a party",
   "image_prompt": "A small event planning table with planner binder, plates, cups, name cards, serving trays, and drink dispenser."
 }
